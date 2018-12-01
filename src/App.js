@@ -17,7 +17,7 @@ class App extends Component {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Rooted Developer Branch
+            This is the mother fucking PRODUCITON branch baby
           </a>
         </header>
       </div>
